@@ -1,7 +1,9 @@
-Heat IllnessesHeat exhaustion: Your body gets too hot. You feel dizzy, weak, or sick.
+## Four Heat Illnesses
 
-Heatstroke: A dangerous medical emergency. Your body stops cooling itself. You need a doctor right away.
+Heat exhaustion: Your body gets too hot. You feel dizzy, weak, or sick.
 
-Sun and Dehydration Sunburn: Strong UV rays damage your skin. Use a strong sunscreen and wear a hat.
+Heatstroke: A dangerous medical emergency. Your body stops cooling itself. You need a doctor right away. 
+
+Some of summer hazards include extreme heat illnesses, serve sunburns, and dehydration.
 
 Dehydration: Hot weather makes you sweat out water. Drink fluids all day so you do not feel tired
